@@ -1,0 +1,52 @@
+body {
+    background-image: url("./images/topography.svg"),
+      linear-gradient(110deg, #d6244b,rgb(248, 250, 133),#2f186d);
+    background-size: 340px, auto;
+    min-height: calc(100vh - 100px);
+    margin: 50px;
+    background-attachment: fixed;
+ 
+
+}
+
+h1{
+    background-image: url("images/WG8P.gif");
+    padding-top:10px;
+}
+h1,h5{
+    margin: 0 0 5px 0;
+    letter-spacing: -1px;
+}
+h5{
+    text-decoration:dashed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.content{
+ 
+  
+    border: 5px solid rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+    font-size: 25px;
+    padding:20px;
+    /* background-color: var(--yellow); best colour */
+    
+    margin-top:10px;
+
+}
+h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:14px;
+}
+.cover{
+    border:1px solid black;
+    margin:200px;
+   
+    
+}
+
